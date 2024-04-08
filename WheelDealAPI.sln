@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WheelDealAPI", "WheelDealAPI\WheelDealAPI.csproj", "{16938C6B-A4F3-4CFF-9019-BA050790CAE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WheelDealAPI.Test", "WheelDealAPI.Test\WheelDealAPI.Test.csproj", "{4B948928-590F-449F-A00A-3F52F0BB1C80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A8B8270-30E1-4BD6-AE23-2774BA37D53C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16938C6B-A4F3-4CFF-9019-BA050790CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16938C6B-A4F3-4CFF-9019-BA050790CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16938C6B-A4F3-4CFF-9019-BA050790CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16938C6B-A4F3-4CFF-9019-BA050790CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B948928-590F-449F-A00A-3F52F0BB1C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B948928-590F-449F-A00A-3F52F0BB1C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B948928-590F-449F-A00A-3F52F0BB1C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B948928-590F-449F-A00A-3F52F0BB1C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC54F6A-CEEB-44BE-BBEA-8D4D3E042622}
+	EndGlobalSection
+EndGlobal

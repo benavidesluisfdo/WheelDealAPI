@@ -1,0 +1,9 @@
+﻿version: '3.8'
+
+services:
+  wheeldeal-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"

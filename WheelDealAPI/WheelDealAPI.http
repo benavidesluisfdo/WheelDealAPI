@@ -1,0 +1,6 @@
+@WheelDealAPI_HostAddress = http://localhost:5137
+
+GET {{WheelDealAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
